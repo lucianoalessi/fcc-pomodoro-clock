@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# Pomodoro Clock en React
+Este proyecto es una aplicación de temporizador basada en la técnica Pomodoro realizada con React Js Y Css, diseñada para ayudarte a mejorar tu productividad y enfoque. La técnica Pomodoro consiste en dividir el trabajo en intervalos de tiempo cortos, llamados "pomodoros", seguidos de breves descansos. Esta aplicación te permite configurar la duración de los pomodoros y los descansos, adaptándose a tus necesidades específicas.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Características Principales
+Temporizador Ajustable: Personaliza la duración de tus sesiones de trabajo/pomodoros y descansos según tu ritmo de trabajo.
+Notificaciones Visuales y Auditivas: Recibe notificaciones visuales y auditivas cuando una sesion de trabajo/pomodoro o descanso haya terminado.
+Seguimiento del Progreso: Visualiza el tiempo restante en cada sesion de trabajo/pomodoro y descanso, así como el progreso total en la sesión actual.
+Ciclos Continuos: Disfruta de sesiones de trabajo productivas al permitir ciclos continuos de pomodoros y descansos.
+Diseño Responsivo: La interfaz de usuario es totalmente receptiva, lo que significa que puedes usarla en cualquier dispositivo, ya sea una computadora de escritorio o un dispositivo móvil.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Cómo Usar
+  1. Clona este repositorio en tu máquina local.
+  2. Instala las dependencias con el comando: npm install.
+  3. Inicia la aplicación con el comando: npm start.
+  4. Configura la duración de tus pomodoros y descansos.
+  5. ¡Comienza a trabajar con la técnica Pomodoro y observa cómo mejora tu enfoque y productividad!
+  
+### Tecnologías Utilizadas
+- React: Una biblioteca de JavaScript para construir interfaces de usuario interactivas.
+- CSS: Estilos personalizados para una experiencia visual agradable y coherente.
+- Librerías externas: React circular Progressbar.
+  
+### Contribuciones
+Si deseas contribuir a este proyecto, ¡serás bienvenido! Puedes abrir problemas (issues) para informar errores, sugerir mejoras o enviar pull requests directamente.
