@@ -19,6 +19,16 @@ Diseño Responsivo: La interfaz de usuario es totalmente receptiva, lo que signi
 - React: Una biblioteca de JavaScript para construir interfaces de usuario interactivas.
 - CSS: Estilos personalizados para una experiencia visual agradable y coherente.
 - Librerías externas: React circular Progressbar.
+
+### Demo:
+
+View online: https://lucianoalessi.github.io/fcc-pomodoro-clock/
+
+### Preview of project:
+
+![image](https://github.com/lucianoalessi/fcc-pomodoro-clock/assets/115379121/9f04ce19-082c-4adf-8cdf-f3b6a7285df1)
+
+
   
 ### Contribuciones
 Si deseas contribuir a este proyecto, ¡serás bienvenido! Puedes abrir problemas (issues) para informar errores, sugerir mejoras o enviar pull requests directamente.
